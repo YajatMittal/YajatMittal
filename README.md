@@ -2,7 +2,7 @@
 
 I'm an incoming Computer Science student at the University of Waterloo.
 
-I like building things with AI and computer vision, mostly just taking ideas and turning them into working projects.
+I love building things with AI and computer vision, mostly just taking ideas and turning them into working projects.
 
 ## 🚀 What I’m into
 - Building AI + computer vision projects  
@@ -11,7 +11,7 @@ I like building things with AI and computer vision, mostly just taking ideas and
 - Making things that solve everyday problems
 
 ## 🌱 Currently learning
-Machine learning, backend development, and scalable AI applications
+Machine learning, backend development, and how to build better, scalable systems.
 
 ## 📫 Let’s connect
 - LinkedIn: https://linkedin.com/in/yajat-mittal
