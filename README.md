@@ -7,11 +7,11 @@ I like building things with AI and computer vision, mostly just taking ideas and
 ## 🚀 What I’m into
 - Building AI + computer vision projects  
 - Working on hackathons and fun side projects  
-- Playing around with machine learning and data  
-- Making things that actually solve problems  
+- Exploring machine learning and real-world data problems
+- Making things that solve everyday problems
 
 ## 🌱 Currently learning
-Machine learning, backend development, and how to build better, scalable systems.
+Machine learning, backend development, and scalable AI applications
 
 ## 📫 Let’s connect
 - LinkedIn: https://linkedin.com/in/yajat-mittal
