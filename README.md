@@ -14,4 +14,5 @@ I love building things with AI and computer vision, mostly just taking ideas and
 Machine learning, backend development, and how to build better, scalable systems.
 
 ## 📫 Let’s connect
+- Portfolio: https://yajatmittal.github.io
 - LinkedIn: https://linkedin.com/in/yajat-mittal
