@@ -1,6 +1,6 @@
 # Hi, I'm Yajat 👋
 
-I'm an incoming Computer Science student at the University of Waterloo.
+I'm a Computer Science student at the University of Waterloo.
 
 I love building things with AI and computer vision, mostly just taking ideas and turning them into working projects.
 
