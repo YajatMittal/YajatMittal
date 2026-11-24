@@ -1,8 +1,6 @@
 # Hi, I'm Yajat 👋
 
-CS student at the **University of Waterloo**  💻
-
-I love building things with AI and computer vision, mostly just taking ideas and turning them into working projects.
+I'm studying Computer Science at the **University of Waterloo**, and I love building things with AI and computer vision, mostly just taking ideas and turning them into working projects.
 
 ### 🔭 Things I've built
 
@@ -11,7 +9,7 @@ I love building things with AI and computer vision, mostly just taking ideas and
 - **[Memoria](https://github.com/YajatMittal/Memoria)**: an AI memory companion for people living with Alzheimer's. Ask *"What did I do yesterday?"* and get a gentle summary built from your own photos. *CNLC 2024*
 - **[SnackTrack](https://github.com/YajatMittal/SnackTrack)**: watches your webcam, sees what you bite into, and scores it. Apple, gain points. Cookie, lose them. Written up as a [tutorial on the Roboflow blog](https://roboflow.com/blog/build-real-time-snack-detection-app).
 
-### 🛠️ Currently...
+### 🛠️ What I'm up to...
 
 - Building AI + computer vision projects that react to the real world
 - Writing technical tutorials for [Roboflow](https://roboflow.com/blog/author/yajat)
@@ -19,8 +17,11 @@ I love building things with AI and computer vision, mostly just taking ideas and
 
 ### 🧰 Tools
 
-Python · TypeScript · JavaScript · C++ · Swift · PyTorch · OpenCV · MediaPipe · Roboflow · Gemini · React · React Native · Three.js · Flask · FastAPI
+- **Languages:** Python, TypeScript, JavaScript, C++, Swift
+- **AI / CV:** PyTorch, OpenCV, MediaPipe, Roboflow, Gemini
+- **Web & apps:** React, React Native, Three.js, Flask, FastAPI
 
-### 📫 Find me here
+### 🔗 Links
 
-[Portfolio](https://yajatmittal.vercel.app) · [LinkedIn](https://linkedin.com/in/yajat-mittal)
+- [Portfolio](https://yajatmittal.vercel.app)
+- [LinkedIn](https://linkedin.com/in/yajat-mittal)
